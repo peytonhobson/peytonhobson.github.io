@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_15">
+    <output url="file://$MODULE_DIR$/../peytonhobson.github.io/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../peytonhobson.github.io/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../peytonhobson.github.io">
+      <sourceFolder url="file://$MODULE_DIR$/../peytonhobson.github.io/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../peytonhobson.github.io/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../peytonhobson.github.io/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../peytonhobson.github.io/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
+  </component>
+</module>
